@@ -816,7 +816,7 @@ class UpdateManager
      */
     protected function createServerUrl($uri)
     {
-        $gateway = Config::get('cms.updateServer', 'http://gateway.octobercms.com/api');
+        $gateway = Config::get('cms.updateServer', 'http://gateway.lymumu.com/api');
         if (substr($gateway, -1) != '/') {
             $gateway .= '/';
         }

@@ -2,8 +2,8 @@
 
 return [
     'app' => [
-        'name' => 'October CMS',
-        'tagline' => '欢迎使用October CMS！'
+        'name' => 'MUMU CMS',
+        'tagline' => '欢迎使用MUMU CMS！'
     ],
     'locale' => [
         'cs' => 'Czech',
