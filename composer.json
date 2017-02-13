@@ -2,7 +2,12 @@
     "name": "october/october",
     "description": "October CMS",
     "homepage": "http://octobercms.com",
-    "keywords": ["october", "cms", "octobercms", "laravel"],
+    "keywords": [
+        "october",
+        "cms",
+        "octobercms",
+        "laravel"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -30,7 +35,8 @@
         "october/backend": "~1.0",
         "october/cms": "~1.0",
         "laravel/framework": "5.1.*",
-        "wikimedia/composer-merge-plugin": "dev-master"
+        "wikimedia/composer-merge-plugin": "dev-master",
+        "jacobcyl/ali-oss-storage": "^2.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

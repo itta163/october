@@ -38,4 +38,5 @@ return [
     October\Rain\Mail\MailServiceProvider::class,
     October\Rain\Argon\ArgonServiceProvider::class,
 
+    Jacobcyl\AliOSS\AliOssServiceProvider::class
 ];
